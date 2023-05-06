@@ -1,1 +1,1 @@
-# Repository Profile
+# bugfreed-admin
